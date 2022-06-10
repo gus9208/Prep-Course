@@ -1,0 +1,62 @@
+Explicación a niño de 12 años siguientes conceptos;
+
+VARIBLES:
+Es una forma de guardar un dato que después quieras usar; es
+como regalar una cajita con un nombre y dentro de esa cajita
+guardas algo por ejemplo; Te regalo una cajita con el nombre
+juguetes y en esa cajita te digo guarda estas canicas.
+Después cuando queramos jugar a las canicas, tendrás que acceder
+a la cajita que te regale.
+
+STRINGS:
+En español "strings" significa cuerdas, y tiene una relación
+con la forma de entender como se comportan en el codigo;
+ejemplo, imagina que todas las letras de una palabra son cuerdas
+de esta manera la palabra "hola" tiene cuatro cuerdas que son
+"h", "o", "l", "a".
+Para nuestro codigo las strings nos sirven para indicarle que
+queremos que nos muestre especificamente esa palabra ó ese número;
+por ejemplo cuando quieras decirle tengo "3 pelotas" ¿contamos las
+cuerdas? "3" es la primera, "p" es la segunda, "e" es la tercera y así
+sucesivamente. Como ves no solo usamos letras sino también números.
+y la forma de hacerle saber a nuestro codigo que usaremos es strings
+es encerrar todo lo que queramos que sea strings entre comillas "".
+
+FUNCIONES (ARGUMENTOS, RETURN):
+Para entender las funciones debemos saber que escribir codigo, es 
+practicamente decirle a tu pc que quieres que haga algo en especifico
+de esta manera las funciones nos sirven para indicarle un tipo de acción
+en concreto; por ejemplo si tu cada que escribas tu nombre quieres que
+el codigo te salude, para eso usas una funcion donde le indiques
+a la pc que cuando escribas tu nombre, te responda con un 
+"hola". Así pues los ARGUMENTOS forman parte de una funcion cuando tu vas
+a darle unos datos a tu pc con los cuales quieres que haga algo, como por
+ejemplo sacar el perimetro de un cuadrado, él mismo se calcula con el valor
+de un lado multiplicado por 4.
+En tu función tendrás el argumento lado (al cual podrás agregarle cualquier
+valor que deseas, si lo piensas es parecido a la viarable es una cajita donde
+guardas cualquier date que desees.) y tu función será tomar ese valor guardado
+en "lado" y multiplicarlo por 4. Ahora ya sabes que va hacer tu función pero
+como indicarle que no solo quieres que lo haga sino también que te muestre el
+resultado que obtuvo, bueno para eso funciona RETURN, en español significa, 
+devolver o regresar con esta palabra tu le indicas a tu computadora que quieres
+que te muestre el resultado que obtuvo al ejecutar la función.
+
+DECLARACIONES IF:
+If en español significa "si" pero no un si de afirmación sino uno de condición,
+es decir, que le indicarás a tu codigo que haga algo en especifico solo si se 
+cumple una cierta condición, como tú con los deberes cuando mamá te dice que solo
+saldrás a jugar cuando termines los valores ¿lo notaste? "solo saldras SI terminas
+tus deberes".
+De esta misma forma nos comunicamos con nuestra pc a traves del codigo para indicarle
+que queremos que haga algo SOLO SI se cumplen las condiciones que le digamos.
+
+VALORES BOOLEANOS (true, false)
+Muy bien ya entendimos lo que es una "IF" ahora como entiende nuestra pc si esa
+condición se cumple o no; para eso usamos "true" que significa verdadero y "false"
+que significa falso, así nuestra pc recibe la función entiende lo que tiene que hacer,
+después mira que tiene unas condiciones que se tienen que cumplir para ejecutar esa
+función o no, revisa todo y si encuentra que tu condición se cumple entonces dice "true"
+la condición se cumple puedo hacer la función y la hace. De lo contrario revisa todo y 
+dice, "mmmm , no la condicion no se cumple" entonces dice "false" y no realiza la
+función.
